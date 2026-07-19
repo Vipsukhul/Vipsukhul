@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Vipul Sukhdeve
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;C%2B%2B+Programmer;Python+Developer;Building+Amazing+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Data+Analyst;C%2B%2B+Programmer;Java+Developer;Building+Amazing+Projects"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Vipsukhul&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -88,7 +88,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vipsukhul&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -112,11 +112,11 @@ public:
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/vipsukhul">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vipsukhul">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -165,7 +165,7 @@ public:
 
 <img
   width="95%"
-  src="https://raw.githubusercontent.com/Vipsukhul/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg"
+  src="https://raw.githubusercontent.com/Vipsukhul/Vipsukhul/main/profile-3d-contrib/profile-night-rainbow.svg"
   alt="3D Contribution Graph"
 />
 
