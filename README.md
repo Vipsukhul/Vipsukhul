@@ -56,9 +56,9 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipsukhul&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipsukhul&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,7 +68,7 @@ public:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vipsukhul&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +78,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipsukhul&theme=tokyo-night"/>
 
 </p>
 
@@ -136,4 +136,56 @@ public:
 
 </div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+
+<h2 align="center">✨ GitHub Extras</h2>
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  alt="Random Developer Quote"
+/>
+
+<br><br>
+
+### 📊 Profile Summary
+
+<img
+  width="90%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vipsukhul&theme=tokyonight"
+  alt="Profile Summary"
+/>
+
+<br><br>
+
+### 🌈 3D Contribution Graph
+
+<img
+  width="95%"
+  src="https://raw.githubusercontent.com/Vipsukhul/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="3D Contribution Graph"
+/>
+
+<br><br>
+
+### 👀 Visitor Counter
+
+<img
+  src="https://komarev.com/ghpvc/?username=Vipsukhul&label=Profile%20Views&style=for-the-badge&color=0891b2"
+  alt="Visitor Counter"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
+
+
