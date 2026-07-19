@@ -17,7 +17,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
-        user: YOUR_USERNAME
+        user: Vipsukhul
 
         template: classic
 
