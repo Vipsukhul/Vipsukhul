@@ -135,3 +135,5 @@ public:
 ### ⭐ Star my repositories if you like my work!
 
 </div>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
