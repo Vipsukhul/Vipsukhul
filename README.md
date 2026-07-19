@@ -84,15 +84,6 @@ public:
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vipsukhul&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
@@ -165,7 +156,7 @@ public:
 
 <img
   width="95%"
-  src="https://raw.githubusercontent.com/Vipsukhul/Vipsukhul/main/profile-3d-contrib/profile-night-rainbow.svg"
+  src="https://raw.githubusercontent.com/Vipsukhul/Vipsukhul/output/profile-3d-contrib/profile-night-rainbow.svg"
   alt="3D Contribution Graph"
 />
 
